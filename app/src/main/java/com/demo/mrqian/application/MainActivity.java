@@ -5,15 +5,13 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    static {
-        System.loadLibrary("holle");
-        System.loadLibrary("holleWorld");
-    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //尼玛好啊
 
     }
-    native void get(xxxxx xxxxx);
+
 }
