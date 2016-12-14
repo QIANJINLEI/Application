@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //尼玛好啊
         //我查
+        //我查查
 
     }
 
